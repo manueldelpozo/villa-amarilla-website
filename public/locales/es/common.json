@@ -1,0 +1,9 @@
+{
+    "welcome": "Bienvenido a Villa Amarilla",
+    "description": "Tu destino perfecto para las vacaciones",
+    "navigation": {
+        "home": "Inicio",
+        "about": "Sobre Nosotros",
+        "contact": "Contacto"
+    }
+}
