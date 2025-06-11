@@ -20,3 +20,6 @@ build/
 *.swp
 *.swo
 .DS_Store 
+
+# Firebase
+serviceAccountKey.json 
