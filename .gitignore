@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Firebase Hosting GitHub Actions preview files
+firebase-hosting-merge.yml
+firebase-hosting-pull-request.yml
